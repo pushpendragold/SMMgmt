@@ -1,2 +1,2 @@
 # SMMgmt
-Simple Shared memory manager for linux.
+Simple C++ Shared memory manager for Linux.
